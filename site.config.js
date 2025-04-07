@@ -1,12 +1,12 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "Quan",
-    image: "notion-avatar-1742295171248.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "Engineer",
-    bio: "Share my thoughts.",
-    email: "yuanquan2024@shanghaitech.edu.cn",
-    linkedin: "",
+    name: "Weibang Bai",
+    image: "bwb.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    role: "Assistant Professor, Researcher, Ph.D. Supervisor",
+    bio: "Dr. Weibang Bai is currently an Assistant Professor, Researcher, and Ph.D. Supervisor at the School of Information Science and Technology, ShanghaiTech University. He is the head of the Medical and Hybrid Bionic Evolutionary Robotics Lab (MAYBE Robolab). He received his bachelor's degree from Sichuan University in 2012 and earned his Ph.D. from Shanghai Jiao Tong University in March 2019. During his doctoral studies, he was awarded the Japan JASSO scholarship and conducted academic research at Nagoya University from November 2014 to January 2015. From May 2019 to December 2022, he worked as a postdoctoral researcher at the Department of Computing and the Department of Electrical and Electronic Engineering, Imperial College London. His research interests include medical robotics, robotic optimization and intelligent control, dexterous manipulation, artificial intelligence, and hybrid-enhanced bio-inspired robots.",
+    email: "wbbai@shanghaitech.edu.cn",
+    linkedin: "https://www.linkedin.com/in/weibang-bai-358660125/?originalSubdomain=uk",
     github: "",
     instagram: "",
   },
@@ -18,13 +18,13 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "Quan",
+    title: "MAYBERoboLab",
     description: "Welcome to my website!",
     scheme: "system", // 'light' | 'dark' | 'system'
   },
 
   // CONFIG configration (required)
-  link: "https://www.quanrobotics.xyz/",
+  link: "https://www.mayberobolab.xyz/",
   since: 2025, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
