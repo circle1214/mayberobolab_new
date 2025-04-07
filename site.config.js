@@ -4,7 +4,7 @@ const CONFIG = {
     name: "Weibang Bai",
     image: "bwb.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Assistant Professor, Researcher, Ph.D. Supervisor",
-    bio: "Dr. Weibang Bai is currently an Assistant Professor, Researcher, and Ph.D. Supervisor at the School of Information Science and Technology, ShanghaiTech University. He is the head of the Medical and Hybrid Bionic Evolutionary Robotics Lab (MAYBE Robolab). He received his bachelor's degree from Sichuan University in 2012 and earned his Ph.D. from Shanghai Jiao Tong University in March 2019. During his doctoral studies, he was awarded the Japan JASSO scholarship and conducted academic research at Nagoya University from November 2014 to January 2015. From May 2019 to December 2022, he worked as a postdoctoral researcher at the Department of Computing and the Department of Electrical and Electronic Engineering, Imperial College London. His research interests include medical robotics, robotic optimization and intelligent control, dexterous manipulation, artificial intelligence, and hybrid-enhanced bio-inspired robots.",
+    bio: "Dr. Weibang Bai is an Assistant Professor at ShanghaiTech University whose research centers on medical robotics, dexterous manipulation, and AI-driven hybrid bionic systems.",
     email: "wbbai@shanghaitech.edu.cn",
     linkedin: "https://www.linkedin.com/in/weibang-bai-358660125/?originalSubdomain=uk",
     github: "",
